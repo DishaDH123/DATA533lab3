@@ -79,3 +79,5 @@ class steps(medium):
         medium.nut=input("Yes or No")
         if medium.nut=="Yes":
             n.mdisplay(self.x,medium.rec,medium.ind)
+        else:
+            print("Happy cooking!")

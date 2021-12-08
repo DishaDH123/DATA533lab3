@@ -77,3 +77,5 @@ class steps(difficult):
         difficult.nut=input("Yes or No")
         if difficult.nut=="Yes":
             n.ddisplay(self.x,difficult.rec,difficult.ind)
+        else:
+            print("Happy cooking!")
